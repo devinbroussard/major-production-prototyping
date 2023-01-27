@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Prototyping",
+			"Path": "C:\\Users\\s218014\\Documents\\Unreal Projects\\Prototyping\\Source\\Prototyping.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PrototypingEditor",
+			"Path": "C:\\Users\\s218014\\Documents\\Unreal Projects\\Prototyping\\Source\\PrototypingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
